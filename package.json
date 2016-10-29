@@ -1,0 +1,14 @@
+{
+  "name": "ts-slackbot",
+  "version": "0.0.1",
+  "description": "A Slack Bot to connect to teamspeak",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-teamspeak": "^1.0.10"
+  },
+  "author": "Francis Screene",
+  "license": "MIT"
+}
