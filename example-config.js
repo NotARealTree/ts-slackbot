@@ -6,6 +6,10 @@ var config = {
         serverip: "localhost",
         username: "username",
         password: "password"
+    },
+    slack: {
+        token: "xoxb-slacktoken-lotsofalphanumerics",
+        botId: "<@slackbotId>"
     }
 };
 

@@ -7,6 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "@slack/client": "^3.6.0",
     "node-teamspeak": "^1.0.10"
   },
   "author": "Francis Screene",
